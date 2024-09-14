@@ -20,6 +20,7 @@ Là khả năng của một phương thức hoặc đối tượng có thể ho�
 Được sử dụng để mở rộng hoặc thay đổi hành vi của các phương thức trong lớp kế thừa hoặc thông qua interfaces.
 
 Ứng dụng thực tế của Kế thừa và Đa hình
+
 -Ứng dụng của Kế thừa:
 
 Tái sử dụng mã nguồn: Các thuộc tính và phương thức dùng chung có thể được đặt trong lớp cha, và các lớp con có thể kế thừa và mở rộng các phương thức này mà không cần phải viết lại.
