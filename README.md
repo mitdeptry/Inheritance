@@ -1,7 +1,8 @@
 #Polymorphism
 Đa hình là một tính chất trong lập trình hướng đối tượng (OOP) cho phép một đối tượng có thể hành xử theo nhiều cách khác nhau. Cụ thể, một phương thức hoặc hành vi có thể có nhiều hình thức khác nhau tùy thuộc vào ngữ cảnh hoặc đối tượng cụ thể sử dụng nó. Trong C#, đa hình giúp mã nguồn trở nên linh hoạt hơn, dễ bảo trì hơn và tối ưu hóa quá trình tái sử dụng mã.
 
-  -Phân biệt giữa Đa hình tĩnh và Đa hình động
+-Phân biệt giữa Đa hình tĩnh và Đa hình động
+
 +Đa hình tĩnh (Compile-time Polymorphism):
 Còn gọi là Nạp chồng phương thức (Method Overloading).
 Phương thức có thể có nhiều phiên bản với cùng tên nhưng khác nhau về số lượng hoặc kiểu tham số.
